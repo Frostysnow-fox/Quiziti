@@ -48,6 +48,7 @@ A comprehensive web-based quizzing platform designed for educational institution
 ### 📋 Prerequisites
 - **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
 - **npm** (comes with Node.js) or **yarn**
+
 - **Firebase account** - [Create free account](https://firebase.google.com/)
 - **Modern web browser** (Chrome, Firefox, Safari, Edge)
 
