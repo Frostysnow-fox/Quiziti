@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 QuizITI Platform
 
 A comprehensive web-based quizzing platform designed for educational institutions, providing an interactive learning environment for students to practice MCQ-based quizzes and helping lecturers create and manage assessments efficiently.
@@ -438,3 +439,6 @@ If you encounter any issues or have questions:
 ---
 
 **Built with ❤️ for ITI Electronics students in Karnataka, India**
+=======
+# Quiziti
+>>>>>>> 8ad9cf87d5810a5148978fe88d5da4e6a358897e
